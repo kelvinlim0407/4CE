@@ -7,7 +7,7 @@ Student Lifestyle (Mental Health Support For Students)
 ## Figma Prototype Link: 
 https://www.figma.com/proto/PkYRVxxMwIRmUHaQ5zvTee/Mental-Health-App?node-id=0-1&t=1QG62uLtSSZpjTxa-1
 
-# Our solution: **Pawez**
+# Our solution: **Pawze**
 Our solution is Pawze, a personalized mental health companion built specifically for university students.
 Unlike generic wellness apps, Pawze is centralized, bringing together everything a student needs from stress management to academic organization in one platform, tailored to their unique needs and preferences
 
